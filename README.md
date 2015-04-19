@@ -3,10 +3,10 @@
 ## W Auden
 ### Antoine
 
-Stop all the clocks, cut off the telephone,
-Prevent the dog from barking with a juicy bone,
-Silence the pianos and with muffled drum
-Bring out the coffin, let the mourners come. 
+*Stop all the clocks, cut off the telephone,
+*Prevent the dog from barking with a juicy bone,
+*Silence the pianos and with muffled drum
+*Bring out the coffin, let the mourners come. 
 
 Let aeroplanes circle moaning overhead
 Scribbling on the sky the message He Is Dead,
