@@ -1,6 +1,5 @@
 # hello-world
 ==================================================
-W.H. Auden
 
 The stars are not wanted now: put out every one;
 Pack up the moon and dismantle the sun;
